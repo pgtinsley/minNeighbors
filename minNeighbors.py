@@ -1,5 +1,5 @@
 ### USAGE ###
-# python3 min_neighbors.py inVideo.mp4 outVideo.mp4 outPickle.pickle
+# python3 minNeighbors.py inVideo.mp4 outVideo.mp4 outPickle.pickle
 
 ### IMPORTS ###
 
